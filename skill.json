@@ -1,0 +1,15 @@
+{
+  "name": "genpark-persistent-homology-vietoris-rips-skill",
+  "version": "1.0.0",
+  "description": "Topological Data Analysis (TDA) Vietoris-Rips filtration generator tracking metric space topological features across expanding radii.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "tda",
+    "persistent-homology",
+    "vietoris-rips",
+    "computational-topology"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
